@@ -1,4 +1,4 @@
-# K1617_11614427_B42_OSCA3
+# K18QW_11805475_OSCA2
 ```
 Consider a scenario of demand paged memory. Page table is held in registers. It takes
 8 milliseconds to service a page fault if an empty page is available or the replaced page is not
